@@ -127,6 +127,10 @@ main h1 {
 
 }
 
+main > picture{
+    padding: 20px;
+}
+
 main h2 {
     font-family: var(--fonte-android);
     font-size: 1.2em  ;
